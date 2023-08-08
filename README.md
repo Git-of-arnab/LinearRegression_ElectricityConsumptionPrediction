@@ -1,4 +1,4 @@
-# Electricity consumption prediction by AC in various parts of the world!
+# Prediction of Electricity consumption in various parts of the world!
 Prediction of electricity consumption by an air conditioner, based on multi-variate feature inputs from various cities of the world.\
 
 
